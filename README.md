@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/1757-recyclable-and-low-fat-products) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
