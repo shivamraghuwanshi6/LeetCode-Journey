@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
