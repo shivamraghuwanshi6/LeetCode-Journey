@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/shivamraghuwanshi6/LeetCode-Journey/tree/master/0072-edit-distance) |
 ## Backtracking
 |  |
 | ------- |
